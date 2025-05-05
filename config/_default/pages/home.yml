@@ -2,10 +2,10 @@ categories:
   - name: 常用网站
     icon: fas fa-star
     sites:
-      - name: Linux.do
-        url: https://linux.do/
-        icon: fab fa-linux
-        description: 新的理想型社区
+      - name: MoviePilot
+        url: http://li0580.top:3000
+        icon: /uploads/2025/4/12/b3e28fa8fbd5be4c47f1867661b00bf6.ico
+        description: 电影飞行员
       - name: Google
         url: https://www.google.com
         icon: fab fa-google
